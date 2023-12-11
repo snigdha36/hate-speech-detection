@@ -1,4 +1,4 @@
-# hate-speech-detection
+# Hate speech evaluation
 
 
 Abstract 
