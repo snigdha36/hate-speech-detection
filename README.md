@@ -1,1 +1,8 @@
 # hate-speech-detection
+
+
+Abstract 
+
+The aim is to create a sophisticated detection system that effectively understands and identifies hate speech in both English and Spanish, taking into account the linguistic characteristics and contextual nuances of these languages. Presenting an innovative approach to multilingual hate speech detection, focusing on English and Spanish languages, using a combination of Bidirectional Encoder Representations from Transformers (BERT), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) models. Our methodology integrates the advanced language understanding capabilities of a multilingual BERT model, initially pre-trained on vast text corpora in multiple languages, including English and Spanish. This model is fine-tuned to adapt to the specificities of hate speech in both languages. The CNN layer is utilized to extract key linguistic features and patterns indicative of hate speech, while the LSTM layer captures the sequential and contextual dependencies in the text data, essential for accurate interpretation of meaning and intent in both languages. 
+
+The dataset employed in this research includes a comprehensive collection of annotated text samples in English and Spanish, carefully curated to represent a wide range of contexts and speech styles. The model undergoes extensive evaluation using cross-validation techniques to ensure its effectiveness and reliability across different linguistic and cultural contexts within English and Spanish. Our results demonstrate the model's superior performance in detecting hate speech in both languages compared to traditional monolingual or less integrated multilingual approaches.  
